@@ -4,4 +4,6 @@ A custom devboard using the STM32H755 chip that I built to be used to prototype 
 ## Why did I make this?
 I made this as I wanted a high-end microcontroller that has a dual core processor and has multiple functionalities, and that eventually led to me making this custom devboard that I plan on using to test prototypes for any complex robots I want to make and not worry about being bottlenecked by the microcontroller.
 
-##Pictures
+## Pictures
+![PCB Top](Images/PCB_Top.png)
+![PCB Bottom](Images/PCB_Bottom.png)
