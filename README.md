@@ -9,7 +9,11 @@ I made this as I wanted a high-end microcontroller that has a dual core processo
 ![PCB Bottom](Images/PCB_Bottom.png)
 
 ## Footprint Pictures
+Top Layer
 ![PCB Top Layer](Images/PCB_Top_Layer.png)
+GND Layer
 ![PCB GND Layer](Images/PCB_GND_Layer.png)
+Power Layer
 ![PCB Power Layer](Images/PCB_Power_Layer.png)
+Bottom Layer
 ![PCB Bottom Layer](Images/PCB_Bottom_Layer.png)
